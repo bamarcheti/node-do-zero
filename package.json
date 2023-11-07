@@ -13,6 +13,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fastify": "^4.24.3"
+    "fastify": "^4.24.3",
+    "postgres": "^3.4.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1"
   }
 }
